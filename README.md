@@ -223,7 +223,7 @@ After running the detect command with the --baseline-path parameter, report outp
 ## Pre-Commit hook
 
 You can run Gitleaks as a pre-commit hook by copying the example `pre-commit.py` script into
-your `.git/hooks/` directory.
+your `.git/hooks/` directory..
 
 ## Load Configuration
 
